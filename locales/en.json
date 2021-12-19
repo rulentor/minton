@@ -1,0 +1,218 @@
+{
+  "navbar": {
+    "search": {
+      "text": "Поиск..."
+    },
+    "dropdown": {
+      "createnew": {
+        "text": "Создать контент",
+        "list": {
+          "projects": "ЕГИСЗ Карта",
+          "users": "Пациент",
+          "revenue": "Врач",
+          "settings": "Настройки",
+          "help": "Поддержка"
+        }
+      },
+      "megamenu": {
+        "text": "Меню",
+        "uicontent": {
+          "title": "Компоненты интерфейса",
+          "list": {
+            "widgets": "Виджеты",
+            "nestable": "Список",
+            "rangeslider": "Интервальные слайдеры",
+            "masonry": "Объекть",
+            "sweetalert": "Уведомления",
+            "treeview": "Tree-view",
+            "tour": "Tour Page"
+          }
+        },
+        "application": {
+          "title": "TMT",
+          "list": {
+            "crm": "CRM",
+            "email": "Email",
+            "contacts": "Контакты",
+            "tasks": "Доска задач",
+            "template": "Шаблоны"
+          }
+        },
+        "extrapages": {
+          "title": "Другие страницы",
+          "list": {
+            "leftsidebaruser": "Left Sidebar with User",
+            "collapsed": "Menu Collapsed",
+            "leftsidebar": "Small Left Sidebar",
+            "header": "New Header Style",
+            "search": "Search Result",
+            "gallery": "Gallery Pages",
+            "maintenance": "Maintenance & Coming Soon"
+          }
+        },
+        "discount": "Специальное предложение",
+        "subtext": "Сэкономьте 70%",
+        "buttontext": "Скачать сейчас"
+      },
+      "site": {
+        "list": {
+          "github": "GitHub",
+          "bitbucket": "Bitbucket",
+          "dribbble": "Dribbble",
+          "dropbox": "Dropbox",
+          "g-suite": "G Suite",
+          "slack": "Slack"
+        }
+      },
+      "notification": {
+        "badge": "6",
+        "text": "Уведомления",
+        "subtext": "Очистить",
+        "1": {
+          "title": "Пациент в критическом состоянии!",
+          "text": "30 секунд назад"
+        },
+        "2": {
+          "title": "Иванов И.: обновление анализов",
+          "text": "1 минута назад"
+        },
+        "3": {
+          "title": "Петров А.",
+          "text": "Приветствую! Хотелось бы обсудить с вами дату следующего посещения..."
+        },
+        "4": {
+          "title": "Новиков И.",
+          "text": "Доктор, как там с моими анализами?"
+        },
+        "5": {
+          "title": "Новая запись!",
+          "text": "5 часов назад"
+        },
+        "6": {
+          "title": "Романов В. выписался",
+          "text": "4 дня назад"
+        },
+        "7": {
+          "title": "Иванов И. улучшение показателей",
+          "text": "4 дня назад"
+        },
+        "button": "Открыть все"
+      },
+      "name": {
+        "text": "Бабин В. В.",
+        "list": {
+          "greet": "Добрый день!",
+          "account": "Личный кабинет",
+          "settings": "Настройки",
+          "logout": "Выйти"
+        }
+      }
+    }
+  },
+  "menuitems": {
+    "navigation": {
+      "text": "Меню"
+    },
+    "dashboard": {
+      "text": "Статистика",
+      "list": {
+        "analytics": "Мониторинг",
+        "diagnosis": "Диагностика пациента",
+        "crm": "CRM система"
+      }
+    },
+    "apps": {
+      "text": "Пациенты"
+    },
+
+    "services": {
+      "text": "Сервисы",
+      "list": {
+        "lightbox": "Анонсы и акции",
+        "chat": "Чат",
+        "egisz": "Пациенты"
+      }
+    },
+
+    "email": {
+      "text": "Документы",
+      "list": {
+        "inbox": "Входящие",
+        "reademail": "Работа с документами",
+        "template": "Шаблоны документов"
+      }
+    },
+    "tasks": {
+      "text": "Важные задачи",
+      "list": {
+        "kanban": "Постановка задач"
+      }
+    },
+    "contacts": {
+      "text": "Приёмная",
+      "list": {
+        "members": "Специалисты",
+        "profile": "Профиль"
+      }
+    },
+    "custom": {
+      "text": "Custom"
+    },
+    "components": {
+      "text": "Components"
+    },
+
+    "forms": {
+      "text": "Формы и Анкеты",
+      "list": {
+        "wizard": "Пошаговое выполнение"
+      }
+    },
+
+    "charts": {
+      "text": "Диаграммы и метрики",
+      "list": {
+        "apex": "Apex",
+        "chartjs": "Chartjs",
+        "c3": "C3",
+        "chartist": "Chartist",
+        "knob": "Knob"
+      }
+    },
+
+    "maps": {
+      "text": "Maps",
+      "list": {
+        "googlemap": "Google Maps"
+      }
+    },
+    "pages": {
+      "text": "Pages"
+    },
+    "authstyle": {
+      "text": "Auth style 1"
+    },
+    "authstyle2": {
+      "text": "Auth style 2"
+    },
+    "errors": {
+      "text": "Errors"
+    },
+    "utility": {
+      "text": "Utility"
+    },
+    "multilevel": {
+      "text": "Multi Level",
+      "list": {
+        "level1": {
+          "1": "Level 1.1",
+          "2": "Level 1.2",
+          "level2": {
+            "1": "Level 2.1",
+            "2": "Level 2.2"
+          }
+        }
+      }
+    }
+  }
+}
